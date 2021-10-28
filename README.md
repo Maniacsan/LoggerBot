@@ -1,2 +1,2 @@
 # LoggerBot
-Logs all messages from a discord server.
+A discord bot that logs all the messages of a server.
